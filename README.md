@@ -8,6 +8,8 @@ By comparing their NBA season statistics to the rest of NBA history, we see that
 
 
 
+PICTURED BELOW- THE BLUE LINE IS THE HIGHEST NUMBER OF THREE POINTERS MADE IN A SEASON PRIOR TO STEPH AND KLAY. 
+
 
 ![Alt text](images/steph_klay.png?raw=true "Optional Title")
 
